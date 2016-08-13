@@ -3,7 +3,7 @@ module FilepickerRails
   module Tag
 
     FILEPICKER_OPTIONS_TO_DASHERIZE = [:button_text, :button_class, :mimetypes,
-                                       :extensions, :container, :services,
+                                       :extensions, :container, :services, :crop_dim,
                                        :drag_text, :drag_class, :store_path,
                                        :store_location, :store_access,
                                        :store_container, :multiple]
